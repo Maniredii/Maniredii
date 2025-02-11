@@ -26,7 +26,7 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Maniredii" alt="Maniredii" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/buymeacoffee.com/Manideep">
+<a href="[https://www.buymeacoffee.com/buymeacoffee.com/Manideep](https://buymeacoffee.com/manideep)">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
