@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm MANIDEEP REDDY EEVURI  </h1>
-<p>A passionate frontend developer from 2023</p>
+<p>A passionate frontend developer since 2023 and an AI innovator with a keen interest in leveraging cutting-edge technologies to build intelligent, user-centric applications. Skilled in creating seamless user experiences and integrating AI-powered solutions to enhance functionality and efficiency.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
