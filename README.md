@@ -74,7 +74,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Maniredii" alt="Maniredii" />
   </a>
 </p>
-<h2>❤️ Support Me</h2>
+<h2>❤️ Support Me💓</h2>
 <p>
   <a href="https://buymeacoffee.com/manideep">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
