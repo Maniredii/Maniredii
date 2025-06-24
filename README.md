@@ -5,9 +5,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maniredii&color=orange" alt="Profile Views" />
 </p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Maniredii.visitor-badge" alt="Visitor Badge with IP Hash" />
-</p>
 <p>A passionate frontend developer since 2023 and an AI innovator with a keen interest in leveraging cutting-edge technologies to build intelligent, user-centric applications. Skilled in creating seamless user experiences and integrating AI-powered solutions to enhance functionality and efficiency.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
