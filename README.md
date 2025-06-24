@@ -1,4 +1,7 @@
 <h1>Hi 👋, I'm MANIDEEP REDDY EEVURI</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+MANIDEEP+REDDY+EEVURI;Frontend+Developer+since+2023;AI+Innovator+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 <p>A passionate frontend developer since 2023 and an AI innovator with a keen interest in leveraging cutting-edge technologies to build intelligent, user-centric applications. Skilled in creating seamless user experiences and integrating AI-powered solutions to enhance functionality and efficiency.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
