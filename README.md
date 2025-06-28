@@ -8,7 +8,9 @@
   <img src="https://profile-counter.glitch.me/maniredii/count.svg?" />
 </div>
 
-<p>A passionate frontend developer since 2023 and an AI innovator with a keen interest in leveraging cutting-edge technologies to build intelligent, user-centric applications. Skilled in creating seamless user experiences and integrating AI-powered solutions to enhance functionality and efficiency.</p>
+<p align="center">
+  A passionate frontend developer since 2023 and an AI innovator with a keen interest in leveraging cutting-edge technologies to build intelligent, user-centric applications. Skilled in creating seamless user experiences and integrating AI-powered solutions to enhance functionality and efficiency.
+</p>
 
 ---
 
@@ -46,12 +48,12 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 GitHub Stats (Updated Daily)</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maniredii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maniredii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maniredii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maniredii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=maniredii&theme=dracula&mode=daily&locale=en&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maniredii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -60,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Maniredii" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Maniredii&theme=dracula&margin-w=10&margin-h=10" alt="Trophies" />
   </a>
 </p>
 
