@@ -11,6 +11,7 @@
 
 
 
+
 <p>A passionate frontend developer since 2023 and an AI innovator with a keen interest in leveraging cutting-edge technologies to build intelligent, user-centric applications. Skilled in creating seamless user experiences and integrating AI-powered solutions to enhance functionality and efficiency.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
@@ -72,15 +73,13 @@
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maniredii&show_icons=true&locale=en" alt="Maniredii" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maniredii&" alt="Maniredii" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maniredii&show_icons=true&locale=en&layout=compact" alt="Maniredii" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&locale=en&cache_seconds=1800" alt="maniredii" />
+<img align="center" src="https://github-readme-streak-stats.demolab.com/?user=maniredii" alt="maniredii" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maniredii&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="maniredii" />
+
+
+
+
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Maniredii" alt="Maniredii" />
