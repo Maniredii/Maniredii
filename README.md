@@ -76,9 +76,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&locale=en&cache_seconds=1800" alt="maniredii" />
 
 
-<p align="left">
-<img src="https://github-readme-streak-stats.demolab.com?user=maniredii&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maniredii&" alt="maniredii" /></p>
 
 
 
