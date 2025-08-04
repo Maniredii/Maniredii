@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
 </p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&locale=en&cache_seconds=1800" alt="maniredii" />
 
 
 
