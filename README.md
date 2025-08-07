@@ -87,7 +87,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maniredii&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="maniredii" />
 
 
 
