@@ -73,17 +73,45 @@
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&locale=en&cache_seconds=1800" alt="maniredii" />
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maniredii&" alt="maniredii" /></p>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&locale=en&cache_seconds=1800" alt="maniredii" /> -->
+
+<h2 align="left">📊 GitHub Analytics</h2>
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&cache_seconds=1800"
+    height="180"
+  />
+</p>
+
+
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maniredii&" alt="maniredii" /></p> -->
+
+
+<p align="left">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=maniredii&theme=tokyonight&hide_border=true&border_radius=15"
+    height="180"
+  />
+</p>
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maniredii&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="maniredii" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maniredii&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="maniredii" /> -->
+
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniredii&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+    height="160"
+  />
+</p>
 
 
 
@@ -91,13 +119,28 @@
 
 
 
-
-
-<p>
+<!-- <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Maniredii" alt="Maniredii" />
   </a>
+</p> -->
+
+<p align="left">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=maniredii&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"
+    alt="Maniredii Trophies"
+  />
 </p>
+
+
+
+
+
+
+
+
+
+
 <h2>❤️ Support Me💓</h2>
 <p>
   <a href="https://buymeacoffee.com/manideep">
