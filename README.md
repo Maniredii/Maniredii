@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm MANIDEEP REDDY EEVURI</h1>
+<h1 align="center">Hi 👋, I'm MANIDEEP REDDY EEVURI</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BF00FF&center=true&vCenter=true&width=600&lines=MANIDEEP+REDDY+EEVURI;Frontend+Developer+since+2023;AI+Innovator+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </p>
@@ -12,8 +12,8 @@
 
 
 
-<p>A passionate frontend developer since 2023 and an AI innovator with a keen interest in leveraging cutting-edge technologies to build intelligent, user-centric applications. Skilled in creating seamless user experiences and integrating AI-powered solutions to enhance functionality and efficiency.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<p>A passionate developer experienced in frontend and AI-based applications. I enjoy building user-friendly interfaces and integrating intelligent features to enhance functionality. Skilled in Java, Python, and modern web technologies, I focus on creating efficient, practical, and impactful solutions.</p>
+<h2>🚀 Languages & Tools</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
@@ -79,7 +79,7 @@
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&locale=en&cache_seconds=1800" alt="maniredii" /> -->
 
-<h2 align="left">📊 GitHub Analytics</h2>
+<h2 align="left">📊 GitHub Stats & Activity</h2>
 
 <p align="left">
   <img 
@@ -137,7 +137,7 @@
 
 
 
-
+<p align="center"><strong>🚀 Building. Learning. Improving Every Day.</strong></p>
 
 
 
