@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MANIDEEP REDDY EEVURI</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BF00FF&center=true&vCenter=true&width=600&lines=MANIDEEP+REDDY+EEVURI;Frontend+Developer+since+2023;AI+Innovator+%7C+Tech+Enthusiast" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=BF00FF&center=true&vCenter=true&width=650&lines=MANIDEEP+REDDY+EEVURI;Frontend+Developer+%7C+AI+Developer;Java+%7C+Python+%7C+Full+Stack;%20Building+Smart+%26+Scalable+Applications" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maniredii&style=flat-square&color=blue" alt="Profile views" />
