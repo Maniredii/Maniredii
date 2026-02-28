@@ -83,31 +83,28 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=maniredii&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://streak-stats.demolab.com?user=maniredii&theme=tokyonight&hide_border=true&border_radius=10"
-    height="180"
+    src="https://streak-stats.demolab.com?user=maniredii&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniredii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=maniredii&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 <p align="left">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=maniredii&theme=tokyonight&no-frame=true&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=maniredii&theme=tokyonight&no-frame=true"
     alt="GitHub Trophies"
   />
 </p>
