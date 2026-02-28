@@ -104,7 +104,7 @@
 
 <p align="left">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniredii&theme=tokyonight"
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=maniredii&theme=tokyo-night&hide_border=true"
     alt="Contribution Graph"
   />
 </p>
