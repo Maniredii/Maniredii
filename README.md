@@ -103,13 +103,6 @@
 </p>
 
 <p align="left">
-  <img 
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=maniredii&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
-
-<p align="left">
   <img
     src="https://github-trophies.vercel.app/?username=maniredii&theme=tokyonight&no-frame=true"
     alt="GitHub Trophies"
