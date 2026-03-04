@@ -1,0 +1,24 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Run every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Trigger Stats Update
+        run: |
+          # Force refresh by making a commit
+          echo "Last updated: $(date)" > .github/last-update.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/last-update.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update stats timestamp [skip ci]"
+          git push
