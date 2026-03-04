@@ -90,7 +90,7 @@
 
 <p align="left">
   <img 
-    src="https://nirzak-streak-stats.vercel.app?user=maniredii&theme=tokyonight&hide_border=true"
+    src="https://nirzak-streak-stats.vercel.app/?user=maniredii&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
