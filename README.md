@@ -71,10 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maniredii&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniredii&theme=tokyonight" alt="Profile Summary" />
-</p>
-
 
 
 
