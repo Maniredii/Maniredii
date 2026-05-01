@@ -51,6 +51,28 @@
   <a target="_blank" href="https://www.linkedin.com/in/manideep-reddy-eevuri-661659268/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
   </a>
+  <a target="_blank" href="https://medium.com/@sivareddyevuri92" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+  <a target="_blank" href="https://github.com/Maniredii" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maniredii&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+## 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maniredii&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniredii&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 
